@@ -1,2 +1,12 @@
 # User-Generator
-This is a fake user generator that is used to make a user for testing and choosing password, name, sex and nationality
+If you are looking for a module that will generate:
+NAME
+EMAIL (Prefix)
+PASSWORD
+USERNAME
+SEX
+NATIONALITY
+
+For user testing and other purposes, you can use this module.
+
+
